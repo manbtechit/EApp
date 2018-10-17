@@ -1,0 +1,11 @@
+D:\Project\Openshift\EApp\EMApp\EMApp\bin\Debug\netcoreapp2.0\EMApp.deps.json
+D:\Project\Openshift\EApp\EMApp\EMApp\bin\Debug\netcoreapp2.0\EMApp.runtimeconfig.json
+D:\Project\Openshift\EApp\EMApp\EMApp\bin\Debug\netcoreapp2.0\EMApp.runtimeconfig.dev.json
+D:\Project\Openshift\EApp\EMApp\EMApp\bin\Debug\netcoreapp2.0\EMApp.dll
+D:\Project\Openshift\EApp\EMApp\EMApp\bin\Debug\netcoreapp2.0\EMApp.pdb
+D:\Project\Openshift\EApp\EMApp\EMApp\obj\Debug\netcoreapp2.0\EMApp.csprojAssemblyReference.cache
+D:\Project\Openshift\EApp\EMApp\EMApp\obj\Debug\netcoreapp2.0\EMApp.csproj.CoreCompileInputs.cache
+D:\Project\Openshift\EApp\EMApp\EMApp\obj\Debug\netcoreapp2.0\EMApp.AssemblyInfoInputs.cache
+D:\Project\Openshift\EApp\EMApp\EMApp\obj\Debug\netcoreapp2.0\EMApp.AssemblyInfo.cs
+D:\Project\Openshift\EApp\EMApp\EMApp\obj\Debug\netcoreapp2.0\EMApp.dll
+D:\Project\Openshift\EApp\EMApp\EMApp\obj\Debug\netcoreapp2.0\EMApp.pdb
